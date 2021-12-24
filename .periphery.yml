@@ -1,0 +1,7 @@
+workspace: ProtocolConformanceTest.xcworkspace
+
+schemes:
+  - ProtocolConformanceTest
+
+targets:
+  - ProtocolConformanceTest

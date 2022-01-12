@@ -1,5 +1,5 @@
 PODS:
-  - Periphery (2.8.3)
+  - Periphery (2.8.6)
 
 DEPENDENCIES:
   - Periphery
@@ -9,7 +9,7 @@ SPEC REPOS:
     - Periphery
 
 SPEC CHECKSUMS:
-  Periphery: 79a94069e649265682b47e69eb546f5ccb14b5bb
+  Periphery: 2b693a570f0878ccc825728e7dbf31934f7a5aee
 
 PODFILE CHECKSUM: fcbc15ff0311cdb3f6943c958d71b708358e1198
 
